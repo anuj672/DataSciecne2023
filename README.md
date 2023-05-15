@@ -1,5 +1,5 @@
 # DataSciecne2023
-This is a potfolio project
+CI/CD initial leranings
 
 [![Python application test with Github Actions](https://github.com/anuj672/DataSciecne2023/actions/workflows/main.yml/badge.svg)](https://github.com/anuj672/DataSciecne2023/actions/workflows/main.yml)
 ## note book
